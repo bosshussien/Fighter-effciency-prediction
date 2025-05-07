@@ -7,4 +7,3 @@ performed preprocessing and feature engineering in notebooks -> preprocessing-an
 
 the nn models: 
 1. UFC_NN.ipynb -> for predicting the efficicy of the takedown of a fighter (regression model).
-2. weightclass_nnmodel.ipynb -> for predicting the weight class of a fighter (classification model).
